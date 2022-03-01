@@ -1,0 +1,54 @@
+{
+  "pokemon": [
+    {
+      "name": "bulbasaur",
+      "types": ["water"],
+      "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+    },
+    {
+      "name": "ivysaur",
+      "types": ["water"],
+      "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+    },
+    {
+      "name": "venusaur",
+      "types": ["water"],
+      "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+    },
+    {
+      "name": "charmander",
+      "types": ["water"],
+      "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+    },
+    {
+      "name": "charmeleon",
+      "types": ["water"],
+      "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+    },
+    {
+      "name": "charizard",
+      "types": ["water"],
+      "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
+    },
+    {
+      "name": "squirtle",
+      "types": ["water"],
+      "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
+    },
+    {
+      "name": "wartortle",
+      "types": ["water"],
+      "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png"
+    },
+    {
+      "name": "blastoise",
+      "types": ["water"],
+      "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png"
+    },
+    {
+      "name": "caterpie",
+      "types": ["water"],
+      "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
+    }
+  ]
+}
